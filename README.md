@@ -10,7 +10,6 @@
 
 📫 Как со мной связаться:
 - почта: basirovdamir@yandex.ru
-- телеграмм: https://t.me/DenverRF
 
 **BasyrovDamir/BasyrovDamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
